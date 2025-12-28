@@ -1,3 +1,7 @@
+Welcome to my portfolio repository.
+
+Visiting my site will make you want to contact me, so feel free to click on the link : https://www.lamine-boumaza.fr
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/530c2667-5dbc-4df3-824c-de37f975c833/deploy-status)](https://app.netlify.com/sites/chiragchrg/deploys)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
